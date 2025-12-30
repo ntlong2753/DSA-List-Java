@@ -1,4 +1,4 @@
-package ThucHanh;
+package ThucHanhArrayList;
 
 import java.util.Arrays;
 
